@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HaloGames Client using jQuery</title>
+    <script src="http://code.jquery.com/jquery-2.1.3.js"></script>
+</head>
+<body>
+    <span id="status"></span>
+    <ul id="list"></ul>
+    <script type="text/javascript">
+            window.App = window.App || (window.App = {});
+
+            $(window.document).ready(
+
+            (function (app) {
+
+                var statusDiv = $("#status"),
+                    list = $('#list'),
+                    statusUpdate = function(status) {
+                        statusDiv.text(status);
+                    };
+
+                app.baseUrl = '/myapi/HaloGames/';
+
+                app.refresh = function () {
+                    $.ajax({
+                        type: 'Get',
+                        url: app.baseUrl,
+                        success: function (data) {
+                            list.empty();
+                            $.each(data, function (idx, item) {
+                                var description = $('<span>').text(' ' + item.Title + ' - ' + item.ReleaseDate);
+                                var li = $('<li>').append(description);
+                                list.append(li);
+                            });
+                            //app.addReady();
+                        },
+                        error: function (err) {
+                            statusUpdate('Encountered error: ' + err.toString());
+                        }
+                    });
+                };
+
+                app.refresh();
+
+            })(window.App));
+
+    </script>
+</body>
+</html>
