@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Author>G. Andrew Duthie</Author>
+      <Description>HttpClient code to access a collection of HaloGames from the HaloGames API.</Description>
+      <Title>HaloGames HttpClient</Title>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>APIUri</ID>
+          <Default>http://localhost:54407/</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="CSharp">
+        <![CDATA[            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("$APIUri$");
+                client.DefaultRequestHeaders.Accept.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+
+                HttpResponseMessage response = await client.GetAsync("myapi/HaloGames");
+                if (response.IsSuccessStatusCode)
+                {
+                    List<HaloGame> HaloGames = await response.Content.ReadAsAsync<List<HaloGame>>();
+                    return View(HaloGames);
+                }
+                else
+                {
+                    return new HttpNotFoundResult();
+                }
+            }]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

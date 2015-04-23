@@ -1,0 +1,14 @@
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\HaloGameAPI.dll.config
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\HaloGameAPI.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\HaloGameAPI.pdb
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\obj\Debug\HaloGameAPI.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\obj\Debug\HaloGameAPI.pdb
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\obj\Debug\HaloGameAPI.csprojResolveAssemblyReference.cache
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\Newtonsoft.Json.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\System.Web.Http.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\Newtonsoft.Json.xml
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\System.Web.Http.xml
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\HaloGameAPI\HaloGameAPI\bin\System.Web.Http.WebHost.xml

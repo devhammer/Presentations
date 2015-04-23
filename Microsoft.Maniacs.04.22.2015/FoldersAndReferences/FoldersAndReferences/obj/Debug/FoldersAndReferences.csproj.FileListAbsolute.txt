@@ -1,0 +1,14 @@
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\FoldersAndReferences.dll.config
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\FoldersAndReferences.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\FoldersAndReferences.pdb
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\Newtonsoft.Json.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\System.Net.Http.Formatting.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\System.Web.Http.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\System.Web.Http.WebHost.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\Newtonsoft.Json.xml
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\System.Net.Http.Formatting.xml
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\System.Web.Http.xml
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\bin\System.Web.Http.WebHost.xml
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\obj\Debug\FoldersAndReferences.csprojResolveAssemblyReference.cache
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\obj\Debug\FoldersAndReferences.dll
+C:\Users\G.Andrew\OneDrive\Code\Presentations And Demos\MicrosoftManiacs\FoldersAndReferences\FoldersAndReferences\obj\Debug\FoldersAndReferences.pdb

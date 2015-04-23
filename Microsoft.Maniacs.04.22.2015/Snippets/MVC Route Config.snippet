@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Author>G. Andrew Duthie</Author>
+      <Description>Default route configuration method for MVC.</Description>
+      <Title>MVC route config</Title>
+    </Header>
+    <Snippet>
+      <Code Language="CSharp"><![CDATA[        public static void RegisterRoutes(RouteCollection routes)
+        {
+            routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
+
+            routes.MapRoute(
+                name: "Default",
+                url: "{controller}/{action}/{id}",
+                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+            );
+        }]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
