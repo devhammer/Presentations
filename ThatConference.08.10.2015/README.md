@@ -23,14 +23,14 @@ practices on exception handling, security, architecture, or other critical aspec
 The code is provided AS-IS, and any use of the code is at your own risk.
 
 ##Resources:
-* [My Gadgeteer/Electronics videos]http://vimeo.com/devhammer
-* [GHI BrainPad]https://www.ghielectronics.com/catalog/product/536
-* [GHI BrainPad Developer Guide]https://www.ghielectronics.com/support/brainpad
+* [My Gadgeteer/Electronics videos](http://vimeo.com/devhammer)
+* [GHI BrainPad](https://www.ghielectronics.com/catalog/product/536)
+* [GHI BrainPad Developer Guide](https://www.ghielectronics.com/support/brainpad)
 * GHI FEZ HAT:
-   * [GHI FEZ HAT for Raspberry Pi 2]https://www.ghielectronics.com/catalog/product/500
-   * [GHI FEZ HAT Developer Guide]https://www.ghielectronics.com/docs/329/fez-hat-developers-guide
+   * [GHI FEZ HAT for Raspberry Pi 2](https://www.ghielectronics.com/catalog/product/500)
+   * [GHI FEZ HAT Developer Guide](https://www.ghielectronics.com/docs/329/fez-hat-developers-guide)
 * GHI FEZ Cream - Gadgeteer for Raspberry Pi 2:
-   * [GHI FEZ Cream for Raspberry Pi 2]https://www.ghielectronics.com/catalog/product/541
-   * [GHI FEZ Cream Developer Guide]https://www.ghielectronics.com/docs/331/fez-cream-developers-guide
-* [Get started with Windows 10 IoT Core]http://ms-iot.github.io/content/en-US/GetStarted.htm
-* [MS Open Tech Connect the Dots project]https://github.com/MSOpenTech/connectthedots
+   * [GHI FEZ Cream for Raspberry Pi 2](https://www.ghielectronics.com/catalog/product/541)
+   * [GHI FEZ Cream Developer Guide](https://www.ghielectronics.com/docs/331/fez-cream-developers-guide)
+* [Get started with Windows 10 IoT Core](http://ms-iot.github.io/content/en-US/GetStarted.htm)
+* [MS Open Tech Connect the Dots project](https://github.com/MSOpenTech/connectthedots)
